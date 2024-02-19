@@ -1,0 +1,1285 @@
+,Nom,Type,Pop21,Pop16,Km2
+0,Canada,Pays,36991981.0,35151728.0,8788702.8
+1,Québec,PR,8501833.0,8164361.0,1298599.75
+2,Amos,V,12675.0,12823.0,429.04
+3,Barraute,MÉ,1986.0,1968.0,493.04
+4,Berry,MÉ,535.0,538.0,575.07
+5,Champneuf,MÉ,94.0,123.0,241.32
+6,La Corne,MÉ,778.0,719.0,308.13
+7,La Morandière,MÉ,205.0,207.0,407.35
+8,La Motte,MÉ,478.0,453.0,175.48
+9,Lac-Chicobi,NO,161.0,136.0,716.01
+10,Lac-Despinassy,NO,21.0,10.0,1848.65
+11,Landrienne,CT,897.0,967.0,275.93
+12,Launay,CT,211.0,218.0,257.8
+13,Pikogan,IRI,540.0,538.0,1.0
+14,Preissac,MÉ,914.0,835.0,422.13
+15,Rochebaucourt,MÉ,146.0,131.0,183.63
+16,Saint-Dominique-du-Rosaire,MÉ,434.0,450.0,479.89
+17,Saint-Félix-de-Dalquier,MÉ,1026.0,940.0,113.15
+18,Saint-Marc-de-Figuery,PE,868.0,834.0,80.79
+19,Saint-Mathieu-d'Harricana,MÉ,770.0,739.0,105.86
+20,Sainte-Gertrude-Manneville,MÉ,793.0,787.0,316.46
+21,Trécesson,CT,1232.0,1223.0,196.89
+22,Authier,MÉ,290.0,268.0,142.22
+23,Authier-Nord,MÉ,288.0,300.0,278.05
+24,Chazel,MÉ,254.0,289.0,133.55
+25,Clermont,CT,484.0,492.0,156.66
+26,Clerval,MÉ,373.0,371.0,99.17
+27,Duparquet,V,716.0,666.0,121.17
+28,Dupuy,MÉ,940.0,931.0,122.43
+29,Gallichan,MÉ,488.0,468.0,73.61
+30,La Reine,MÉ,307.0,339.0,97.63
+31,La Sarre,V,7358.0,7282.0,148.36
+32,Lac-Duparquet,NO,0.0,0.0,113.66
+33,Macamic,V,2744.0,2751.0,202.05
+34,Normétal,MÉ,778.0,808.0,55.25
+35,Palmarolle,MÉ,1386.0,1409.0,117.87
+36,Poularies,MÉ,662.0,682.0,168.19
+37,Rapide-Danseur,MÉ,380.0,328.0,173.73
+38,Rivière-Ojima,NO,60.0,86.0,354.47
+39,Roquemaure,MÉ,409.0,395.0,120.02
+40,Saint-Lambert,PE,191.0,194.0,99.81
+41,Sainte-Germaine-Boulé,MÉ,941.0,986.0,110.04
+42,Sainte-Hélène-de-Mancebourg,PE,410.0,373.0,68.15
+43,Taschereau,MÉ,898.0,963.0,246.97
+44,Val-Saint-Gilles,MÉ,169.0,157.0,109.39
+45,Acton Vale,V,7605.0,7656.0,91.01
+46,Béthanie,MÉ,350.0,322.0,47.01
+47,Roxton,CT,1115.0,1086.0,148.93
+48,Roxton Falls,VL,1322.0,1305.0,4.94
+49,Saint-Nazaire-d'Acton,PE,880.0,884.0,58.04
+50,Saint-Théodore-d'Acton,MÉ,1564.0,1519.0,82.82
+51,Sainte-Christine,PE,772.0,730.0,92.12
+52,Upton,MÉ,2046.0,2092.0,54.77
+53,Baie-des-Chaloupes,NO,0.0,0.0,890.15
+54,Chute-Saint-Philippe,MÉ,1039.0,942.0,298.64
+55,Ferme-Neuve,MÉ,2716.0,2706.0,786.19
+56,Kiamika,MÉ,790.0,757.0,337.53
+57,L'Ascension,MÉ,899.0,791.0,334.82
+58,La Macaza,MÉ,1094.0,1150.0,161.42
+59,Lac-Akonapwehikan,NO,0.0,0.0,7.54
+60,Lac-Bazinet,NO,0.0,0.0,1536.22
+61,Lac-De La Bidière,NO,0.0,0.0,1530.44
+62,Lac-Douaire,NO,5.0,5.0,1957.99
+63,Lac-Ernest,NO,0.0,0.0,339.3
+64,Lac-Marguerite,NO,0.0,0.0,803.59
+65,Lac-Oscar,NO,0.0,0.0,1667.85
+66,Lac-Saguay,VL,526.0,459.0,171.88
+67,Lac-Saint-Paul,MÉ,525.0,481.0,170.72
+68,Lac-Wagwabika,NO,0.0,0.0,4.13
+69,Lac-de-la-Maison-de-Pierre,NO,0.0,0.0,472.88
+70,Lac-de-la-Pomme,NO,0.0,0.0,50.27
+71,Lac-des-Écorces,MÉ,2885.0,2734.0,144.3
+72,Lac-du-Cerf,MÉ,445.0,435.0,71.73
+73,Mont-Laurier,V,14180.0,14116.0,587.42
+74,Mont-Saint-Michel 3,MÉ,581.0,576.0,138.16
+75,Nominingue,MÉ,2255.0,2137.0,303.89
+76,Notre-Dame-de-Pontmain,MÉ,790.0,782.0,259.9
+77,Notre-Dame-du-Laus,MÉ,1730.0,1558.0,849.1
+78,Rivière-Rouge,V,4631.0,4322.0,451.43
+79,Saint-Aimé-du-Lac-des-Îles,MÉ,815.0,790.0,161.61
+80,Sainte-Anne-du-Lac,MÉ,556.0,575.0,320.73
+81,Brownsburg-Chatham,V,7247.0,7122.0,244.46
+82,Gore,CT,2283.0,1904.0,90.04
+83,Grenville,VL,1816.0,1711.0,2.82
+84,Grenville-sur-la-Rouge,MÉ,2883.0,2824.0,313.61
+85,Harrington,CT,967.0,846.0,233.65
+86,Lachute 4,V,14100.0,12862.0,108.66
+87,Mille-Isles,MÉ,1721.0,1567.0,58.73
+88,Saint-André-d'Argenteuil 4,MÉ,3053.0,3020.0,97.69
+89,Wentworth,CT,682.0,533.0,85.03
+90,Chesterville,MÉ,877.0,922.0,116.72
+91,Daveluyville 5,V,2360.0,2255.0,61.71
+92,Ham-Nord,CT,857.0,869.0,103.98
+93,Kingsey Falls,V,1986.0,1947.0,69.36
+94,Maddington Falls,MÉ,428.0,413.0,23.82
+95,Notre-Dame-de-Ham,MÉ,414.0,411.0,31.05
+96,Saint-Albert,MÉ,1640.0,1601.0,69.43
+97,Saint-Christophe-d'Arthabaska,PE,3111.0,3021.0,68.96
+98,Saint-Louis-de-Blandford,MÉ,1076.0,1011.0,104.36
+99,Saint-Norbert-d'Arthabaska,MÉ,1247.0,1157.0,102.98
+100,Saint-Rosaire,PE,932.0,843.0,109.53
+101,Saint-Rémi-de-Tingwick,MÉ,446.0,458.0,72.97
+102,Saint-Samuel,MÉ,765.0,744.0,43.21
+103,Saint-Valère,MÉ,1188.0,1263.0,108.1
+104,Sainte-Clotilde-de-Horton,MÉ,1563.0,1569.0,114.66
+105,Sainte-Hélène-de-Chester,MÉ,384.0,374.0,83.72
+106,Sainte-Séraphine,PE,441.0,355.0,75.86
+107,Sainte-Élizabeth-de-Warwick,MÉ,383.0,372.0,51.87
+108,Saints-Martyrs-Canadiens,PE,277.0,254.0,111.4
+109,Tingwick,MÉ,1484.0,1410.0,169.48
+110,Victoriaville,V,47760.0,46130.0,84.33
+111,Warwick,V,4729.0,4635.0,109.6
+112,Carleton-sur-Mer,V,4081.0,4073.0,221.48
+113,Escuminac,MÉ,575.0,544.0,108.7
+114,Gesgapegiag,IRI,637.0,653.0,2.2
+115,L'Ascension-de-Patapédia,MÉ,148.0,164.0,95.98
+116,Listuguj 3 6,IRI,,1514.0,44.23
+117,Maria,MÉ,2760.0,2615.0,94.88
+118,Matapédia,MÉ,566.0,645.0,71.59
+119,Nouvelle 3,MÉ,1782.0,1681.0,234.66
+120,Pointe-à-la-Croix 3,MÉ,1344.0,1408.0,390.73
+121,Ristigouche-Partie-Sud-Est,CT,170.0,171.0,51.76
+122,Rivière-Nouvelle,NO,0.0,0.0,1087.6
+123,Ruisseau-Ferguson,NO,0.0,0.0,675.94
+124,Saint-Alexis-de-Matapédia,MÉ,519.0,500.0,84.91
+125,Saint-André-de-Restigouche,MÉ,154.0,161.0,143.37
+126,Saint-François-d'Assise,MÉ,679.0,644.0,179.34
+127,La Guadeloupe,VL,1805.0,1707.0,32.84
+128,Lac-Poulin,VL,171.0,147.0,0.88
+129,Notre-Dame-des-Pins,PE,1812.0,1594.0,24.09
+130,Saint-Benoît-Labre,MÉ,1617.0,1630.0,85.65
+131,Saint-Côme--Linière,MÉ,3278.0,3239.0,150.45
+132,Saint-Georges,V,32935.0,32513.0,199.08
+133,Saint-Gédéon-de-Beauce,MÉ,2093.0,2205.0,197.37
+134,Saint-Hilaire-de-Dorset,PE,96.0,95.0,186.77
+135,Saint-Honoré-de-Shenley 3,MÉ,1555.0,1517.0,133.96
+136,Saint-Martin,PE,2588.0,2477.0,118.0
+137,Saint-Philibert,MÉ,379.0,369.0,57.16
+138,Saint-René,PE,946.0,745.0,61.54
+139,Saint-Simon-les-Mines,MÉ,573.0,549.0,47.43
+140,Saint-Théophile,MÉ,702.0,713.0,427.78
+141,Saint-Éphrem-de-Beauce,MÉ,2323.0,2400.0,118.9
+142,Saint-Évariste-de-Forsyth 3,MÉ,511.0,545.0,110.85
+143,Beauharnois,V,13638.0,12884.0,68.22
+144,Saint-Louis-de-Gonzague,PE,1950.0,1481.0,77.04
+145,Saint-Stanislas-de-Kostka,MÉ,1852.0,1654.0,57.69
+146,Saint-Urbain-Premier,MÉ,1332.0,1264.0,53.28
+147,Saint-Étienne-de-Beauharnois,MÉ,1099.0,831.0,40.63
+148,Sainte-Martine,MÉ,5664.0,5461.0,63.06
+149,Salaberry-de-Valleyfield,V,42787.0,40745.0,108.56
+150,Armagh,MÉ,1439.0,1488.0,167.99
+151,Beaumont,MÉ,2968.0,2942.0,44.57
+152,Honfleur,MÉ,881.0,849.0,50.67
+153,La Durantaye,PE,782.0,755.0,34.99
+154,Notre-Dame-Auxiliatrice-de-Buckland,PE,767.0,768.0,94.71
+155,Saint-Anselme,MÉ,4047.0,3938.0,74.22
+156,Saint-Charles-de-Bellechasse,MÉ,2583.0,2396.0,93.3
+157,Saint-Damien-de-Buckland,PE,1893.0,1956.0,82.04
+158,Saint-Gervais,MÉ,2138.0,2153.0,89.33
+159,Saint-Henri,MÉ,5813.0,5611.0,122.61
+160,Saint-Lazare-de-Bellechasse,MÉ,1332.0,1288.0,85.93
+161,Saint-Léon-de-Standon,PE,1042.0,1127.0,136.88
+162,Saint-Malachie,PE,1667.0,1517.0,101.07
+163,Saint-Michel-de-Bellechasse,MÉ,1871.0,1813.0,43.08
+164,Saint-Nazaire-de-Dorchester,PE,338.0,363.0,51.56
+165,Saint-Nérée-de-Bellechasse,MÉ,744.0,742.0,75.76
+166,Saint-Philémon,PE,680.0,714.0,146.51
+167,Saint-Raphaël,MÉ,2458.0,2390.0,121.69
+168,Saint-Vallier,MÉ,1031.0,1061.0,44.88
+169,Sainte-Claire,MÉ,3526.0,3362.0,88.14
+170,Bonaventure,V,2733.0,2706.0,104.5
+171,Caplan,MÉ,1966.0,2024.0,85.69
+172,Cascapédia--Saint-Jules,MÉ,764.0,730.0,164.29
+173,Hope,CT,584.0,568.0,70.55
+174,Hope Town,MÉ,334.0,339.0,51.26
+175,New Carlisle,MÉ,1336.0,1388.0,67.99
+176,New Richmond,V,3683.0,3706.0,172.5
+177,Paspébiac,V,3033.0,3164.0,94.98
+178,Rivière-Bonaventure,NO,59.0,35.0,3054.37
+179,Saint-Alphonse,MÉ,711.0,699.0,112.09
+180,Saint-Elzéar,MÉ,464.0,458.0,204.16
+181,Saint-Godefroi,CT,350.0,380.0,63.57
+182,Saint-Siméon,PE,1207.0,1171.0,56.71
+183,Shigawake,MÉ,333.0,292.0,76.82
+184,Abercorn,VL,341.0,334.0,26.72
+185,Bedford,V,2558.0,2560.0,4.23
+186,Bedford,CT,658.0,687.0,31.96
+187,Bolton-Ouest,MÉ,732.0,630.0,100.94
+188,Brigham,MÉ,2282.0,2306.0,86.92
+189,Brome,VL,341.0,296.0,11.56
+190,Bromont,V,11357.0,9041.0,114.05
+191,Cowansville,V,15234.0,13656.0,46.87
+192,Dunham,V,3599.0,3432.0,193.86
+193,East Farnham,MÉ,612.0,554.0,5.02
+194,Farnham,V,10149.0,8909.0,92.12
+195,Frelighsburg,MÉ,1123.0,1111.0,123.31
+196,Lac-Brome,V,5923.0,5495.0,206.9
+197,Notre-Dame-de-Stanbridge,MÉ,691.0,668.0,43.89
+198,Pike River,MÉ,503.0,517.0,40.77
+199,Saint-Armand,MÉ,1228.0,1205.0,83.16
+200,Saint-Ignace-de-Stanbridge,MÉ,677.0,676.0,69.42
+201,Sainte-Sabine,MÉ,1105.0,1085.0,55.33
+202,Stanbridge East,MÉ,834.0,866.0,49.41
+203,Stanbridge Station,MÉ,291.0,274.0,18.07
+204,Sutton,V,4548.0,4012.0,245.69
+205,Bécancour,V,13561.0,13031.0,439.54
+206,Deschaillons-sur-Saint-Laurent,MÉ,906.0,909.0,36.51
+207,Fortierville,MÉ,660.0,669.0,44.55
+208,Lemieux,MÉ,292.0,301.0,74.6
+209,Manseau,MÉ,807.0,816.0,104.48
+210,Parisville,PE,396.0,530.0,35.58
+211,Saint-Pierre-les-Becquets,MÉ,1183.0,1137.0,48.14
+212,Saint-Sylvère,MÉ,786.0,791.0,86.3
+213,Sainte-Cécile-de-Lévrard,PE,349.0,372.0,32.32
+214,Sainte-Françoise,MÉ,467.0,449.0,87.02
+215,Sainte-Marie-de-Blandford,MÉ,443.0,468.0,69.3
+216,Sainte-Sophie-de-Lévrard,PE,704.0,729.0,84.05
+217,Wôlinak,IRI,194.0,202.0,0.74
+218,Baie-Saint-Paul,V,7371.0,7146.0,545.85
+219,L'Isle-aux-Coudres,MÉ,1116.0,1143.0,29.46
+220,Lac-Pikauba 3,NO,0.0,0.0,2440.54
+221,Les Éboulements,MÉ,1465.0,1331.0,156.19
+222,Petite-Rivière-Saint-François,MÉ,953.0,814.0,133.89
+223,Saint-Hilarion,PE,1146.0,1127.0,100.3
+224,Saint-Urbain,PE,1320.0,1373.0,330.57
+225,Baie-Sainte-Catherine,MÉ,184.0,206.0,232.89
+226,Clermont,V,3065.0,3085.0,51.53
+227,La Malbaie,V,8235.0,8271.0,458.19
+228,Mont-Élie,NO,51.0,63.0,851.18
+229,Notre-Dame-des-Monts,MÉ,789.0,791.0,57.93
+230,Sagard,NO,110.0,130.0,204.59
+231,Saint-Aimé-des-Lacs,MÉ,1158.0,1095.0,91.61
+232,Saint-Irénée,PE,678.0,641.0,59.92
+233,Saint-Siméon,MÉ,1139.0,1227.0,281.14
+234,Barnston-Ouest 3,MÉ,546.0,559.0,99.36
+235,Coaticook 3,V,8867.0,8955.0,219.45
+236,Compton,MÉ,3270.0,3131.0,206.58
+237,Dixville,MÉ,732.0,696.0,76.56
+238,East Hereford,MÉ,282.0,269.0,72.1
+239,Martinville,MÉ,441.0,436.0,47.66
+240,Saint-Herménégilde,MÉ,690.0,670.0,166.15
+241,Saint-Malo,MÉ,514.0,475.0,131.83
+242,Saint-Venant-de-Paquette,MÉ,69.0,97.0,58.75
+243,Sainte-Edwidge-de-Clifton,CT,546.0,504.0,101.84
+244,Stanstead-Est,MÉ,642.0,584.0,114.54
+245,Waterville,V,2307.0,2121.0,44.03
+246,Grosse-Île,MÉ,464.0,465.0,32.28
+247,Les Îles-de-la-Madeleine,MÉ,12190.0,12010.0,155.06
+248,Berthierville,V,4386.0,4189.0,6.77
+249,La Visitation-de-l'Île-Dupas,MÉ,684.0,626.0,28.15
+250,Lanoraie,MÉ,5134.0,4787.0,102.74
+251,Lavaltrie,V,14425.0,13657.0,68.22
+252,Mandeville,MÉ,2363.0,2189.0,318.21
+253,Saint-Barthélemy,PE,2087.0,1934.0,105.36
+254,Saint-Cléophas-de-Brandon,MÉ,254.0,227.0,15.34
+255,Saint-Cuthbert,MÉ,1821.0,1862.0,131.72
+256,Saint-Didace,PE,688.0,652.0,99.6
+257,Saint-Gabriel 5,V,2803.0,2640.0,2.81
+258,Saint-Gabriel-de-Brandon 5,MÉ,2684.0,2635.0,99.23
+259,Saint-Ignace-de-Loyola,MÉ,2048.0,2049.0,31.9
+260,Saint-Norbert,PE,1060.0,1003.0,74.6
+261,Sainte-Geneviève-de-Berthier,MÉ,2253.0,2280.0,67.03
+262,Sainte-Élisabeth,MÉ,1390.0,1459.0,83.0
+263,Deux-Montagnes,V,17915.0,17496.0,6.08
+264,Kanesatake 6,S-É,,,11.86
+265,Oka,MÉ,3968.0,3824.0,56.99
+266,Pointe-Calumet,MÉ,6281.0,6428.0,4.59
+267,Saint-Eustache,V,45276.0,44008.0,70.51
+268,Saint-Joseph-du-Lac,MÉ,7031.0,6687.0,41.22
+269,Saint-Placide,MÉ,1784.0,1686.0,42.89
+270,Sainte-Marthe-sur-le-Lac,V,19797.0,18074.0,8.73
+271,Drummondville,V,79258.0,75423.0,247.11
+272,Durham-Sud,MÉ,1051.0,1043.0,92.64
+273,L'Avenir,MÉ,1350.0,1307.0,97.59
+274,Lefebvre,MÉ,925.0,904.0,66.18
+275,Notre-Dame-du-Bon-Conseil,VL,1708.0,1557.0,4.2
+276,Notre-Dame-du-Bon-Conseil,PE,885.0,949.0,87.49
+277,Saint-Bonaventure,MÉ,1066.0,1031.0,78.72
+278,Saint-Cyrille-de-Wendover,MÉ,4920.0,4723.0,110.2
+279,Saint-Edmond-de-Grantham,PE,804.0,762.0,48.29
+280,Saint-Eugène,MÉ,1139.0,1126.0,75.84
+281,Saint-Félix-de-Kingsey,MÉ,1493.0,1430.0,126.28
+282,Saint-Germain-de-Grantham,MÉ,4922.0,4917.0,87.47
+283,Saint-Guillaume,MÉ,1491.0,1476.0,87.91
+284,Saint-Lucien,MÉ,1801.0,1647.0,110.99
+285,Saint-Majorique-de-Grantham,PE,1384.0,1388.0,57.5
+286,Saint-Pie-de-Guire,PE,446.0,450.0,51.27
+287,Sainte-Brigitte-des-Saults,PE,737.0,723.0,70.79
+288,Wickham,MÉ,2587.0,2541.0,98.63
+289,Batiscan,MÉ,958.0,903.0,43.25
+290,Champlain,MÉ,1807.0,1735.0,58.17
+291,Notre-Dame-du-Mont-Carmel,PE,6121.0,5751.0,128.29
+292,Saint-Luc-de-Vincennes,MÉ,519.0,545.0,53.78
+293,Saint-Maurice,PE,3432.0,3286.0,91.36
+294,Saint-Narcisse,PE,1801.0,1832.0,106.74
+295,Saint-Prosper-de-Champlain,MÉ,482.0,530.0,94.11
+296,Saint-Stanislas,MÉ,1001.0,1010.0,89.38
+297,Sainte-Anne-de-la-Pérade,MÉ,2031.0,2019.0,109.28
+298,Sainte-Geneviève-de-Batiscan,PE,1028.0,1006.0,97.65
+299,Trois-Rivières,V,139163.0,134413.0,288.65
+300,Gatineau,V,291041.0,276245.0,341.84
+301,Crabtree,MÉ,4155.0,3958.0,25.06
+302,Joliette,V,21384.0,20484.0,22.96
+303,Notre-Dame-de-Lourdes,MÉ,3141.0,2783.0,35.59
+304,Notre-Dame-des-Prairies,V,9471.0,9273.0,18.1
+305,Saint-Ambroise-de-Kildare,MÉ,4090.0,3856.0,67.73
+306,Saint-Charles-Borromée,V,15285.0,13791.0,18.48
+307,Saint-Paul,MÉ,6566.0,5891.0,49.11
+308,Saint-Pierre,VL,286.0,276.0,9.68
+309,Saint-Thomas,MÉ,3496.0,3249.0,94.57
+310,Sainte-Mélanie,MÉ,3250.0,2989.0,76.1
+311,Kamouraska,MÉ,607.0,616.0,44.07
+312,La Pocatière,V,4078.0,4120.0,21.18
+313,Mont-Carmel,MÉ,1160.0,1127.0,428.26
+314,Petit-Lac-Sainte-Anne,NO,0.0,0.0,186.42
+315,Picard,NO,5.0,10.0,568.1
+316,Rivière-Ouelle,MÉ,995.0,970.0,57.5
+317,Saint-Alexandre-de-Kamouraska,MÉ,2255.0,2109.0,111.4
+318,Saint-André-de-Kamouraska,MÉ,658.0,658.0,71.06
+319,Saint-Bruno-de-Kamouraska,MÉ,515.0,541.0,188.44
+320,Saint-Denis-De La Bouteillerie,MÉ,518.0,517.0,33.84
+321,Saint-Gabriel-Lalemant,MÉ,660.0,716.0,77.92
+322,Saint-Germain,PE,294.0,286.0,28.53
+323,Saint-Joseph-de-Kamouraska,PE,398.0,391.0,84.96
+324,Saint-Onésime-d'Ixworth,MÉ,522.0,560.0,102.76
+325,Saint-Pacôme,MÉ,1806.0,1598.0,29.06
+326,Saint-Pascal,V,3530.0,3468.0,59.68
+327,Saint-Philippe-de-Néri,PE,818.0,832.0,32.65
+328,Sainte-Anne-de-la-Pocatière,PE,1597.0,1636.0,54.78
+329,Sainte-Hélène-de-Kamouraska,MÉ,891.0,918.0,60.46
+330,Charlemagne,V,6302.0,5913.0,2.17
+331,L'Assomption,V,23442.0,22429.0,98.74
+332,L'Épiphanie 5,V,8883.0,8693.0,56.57
+333,Repentigny,V,86100.0,84285.0,61.52
+334,Saint-Sulpice,PE,3360.0,3439.0,36.17
+335,L'Islet,MÉ,3803.0,3827.0,119.95
+336,Saint-Adalbert,MÉ,460.0,510.0,216.16
+337,Saint-Aubert,MÉ,1441.0,1474.0,98.45
+338,Saint-Cyrille-de-Lessard,PE,742.0,718.0,230.52
+339,Saint-Damase-de-L'Islet,MÉ,563.0,552.0,247.64
+340,Saint-Jean-Port-Joli,MÉ,3329.0,3407.0,69.31
+341,Saint-Marcel,MÉ,422.0,428.0,178.83
+342,Saint-Omer,MÉ,294.0,277.0,122.44
+343,Saint-Pamphile,V,2274.0,2400.0,137.78
+344,Saint-Roch-des-Aulnaies,MÉ,955.0,917.0,49.14
+345,Sainte-Félicité,MÉ,350.0,389.0,94.89
+346,Sainte-Louise,PE,674.0,671.0,76.59
+347,Sainte-Perpétue,MÉ,1715.0,1639.0,291.04
+348,Tourville,MÉ,576.0,589.0,164.36
+349,Inverness,MÉ,910.0,899.0,176.11
+350,Laurierville,MÉ,1313.0,1346.0,107.91
+351,Lyster,MÉ,1587.0,1605.0,167.55
+352,Notre-Dame-de-Lourdes,PE,787.0,688.0,81.39
+353,Plessisville 5,V,6414.0,6551.0,4.92
+354,Plessisville 5,PE,2655.0,2663.0,141.19
+355,Princeville,V,6218.0,6001.0,195.01
+356,Saint-Ferdinand,MÉ,2007.0,2076.0,137.16
+357,Saint-Pierre-Baptiste,PE,560.0,527.0,81.77
+358,Sainte-Sophie-d'Halifax,MÉ,595.0,612.0,92.13
+359,Villeroy,MÉ,488.0,457.0,101.9
+360,Saint-François-de-l'Île-d'Orléans,MÉ,536.0,527.0,28.96
+361,Saint-Jean-de-l'Île-d'Orléans,MÉ,1026.0,1059.0,43.48
+362,Saint-Laurent-de-l'Île-d'Orléans,MÉ,1607.0,1532.0,35.64
+363,Saint-Pierre-de-l'Île-d'Orléans,MÉ,1743.0,1993.0,31.64
+364,Sainte-Famille-de-l'Île-d'Orléans,MÉ,850.0,938.0,50.54
+365,Sainte-Pétronille,VL,1055.0,1033.0,4.32
+366,Beaupré,V,4117.0,3752.0,22.97
+367,Boischatel,MÉ,8231.0,7587.0,20.36
+368,Château-Richer,V,4425.0,4126.0,228.84
+369,L'Ange-Gardien,MÉ,3842.0,3695.0,53.61
+370,Lac-Jacques-Cartier,NO,0.0,0.0,4131.62
+371,Saint-Ferréol-les-Neiges,MÉ,3806.0,3240.0,83.18
+372,Saint-Joachim,PE,1427.0,1441.0,42.33
+373,Saint-Louis-de-Gonzague-du-Cap-Tourmente,PE,0.0,5.0,0.42
+374,Saint-Tite-des-Caps,MÉ,1504.0,1473.0,129.3
+375,Sainte-Anne-de-Beaupré,V,2888.0,2880.0,62.38
+376,Sault-au-Cochon,NO,0.0,0.0,70.18
+377,Cloridorme,CT,607.0,671.0,158.74
+378,Collines-du-Basque,NO,0.0,0.0,817.84
+379,Gaspé,V,15063.0,14568.0,1118.77
+380,Grande-Vallée,MÉ,1077.0,1057.0,144.16
+381,Murdochville,V,643.0,651.0,60.84
+382,Petite-Vallée,MÉ,157.0,170.0,39.9
+383,Rivière-Saint-Jean,NO,0.0,0.0,1748.14
+384,Colombier,MÉ,635.0,685.0,361.23
+385,Essipit,IRI,310.0,297.0,1.13
+386,Forestville,V,2892.0,3081.0,192.61
+387,Lac-au-Brochet,NO,0.0,5.0,9360.33
+388,Les Bergeronnes,MÉ,619.0,661.0,268.77
+389,Les Escoumins,MÉ,1794.0,1891.0,265.89
+390,Longue-Rive,MÉ,918.0,1026.0,308.06
+391,Portneuf-sur-Mer 3,MÉ,612.0,641.0,181.9
+392,Sacré-Coeur,MÉ,1684.0,1803.0,303.15
+393,Tadoussac,VL,814.0,799.0,52.73
+394,Cap-Chat,V,2516.0,2476.0,181.31
+395,Coulée-des-Adolphe,NO,0.0,0.0,86.2
+396,La Martre,MÉ,194.0,243.0,175.23
+397,Marsoui,VL,289.0,275.0,181.4
+398,Mont-Albert,NO,167.0,179.0,3463.19
+399,Mont-Saint-Pierre,VL,186.0,155.0,52.07
+400,Rivière-à-Claude,MÉ,141.0,128.0,155.95
+401,Saint-Maxime-du-Mont-Louis,MÉ,1047.0,1134.0,232.67
+402,Sainte-Anne-des-Monts,V,6121.0,6437.0,263.51
+403,Sainte-Madeleine-de-la-Rivière-Madeleine,MÉ,289.0,289.0,262.35
+404,Granby,V,69025.0,66222.0,152.69
+405,Roxton Pond,MÉ,4224.0,3809.0,97.64
+406,Saint-Alphonse-de-Granby,MÉ,3341.0,3094.0,50.12
+407,Saint-Joachim-de-Shefford,MÉ,1476.0,1301.0,126.91
+408,Sainte-Cécile-de-Milton,MÉ,2195.0,2160.0,72.96
+409,Shefford,CT,7253.0,6947.0,117.99
+410,Warden,VL,362.0,363.0,5.46
+411,Waterloo,V,4920.0,4410.0,12.23
+412,Fossambault-sur-le-Lac,V,2327.0,1960.0,11.49
+413,Lac-Beauport,MÉ,8164.0,7801.0,61.73
+414,Lac-Croche,NO,0.0,0.0,1679.99
+415,Lac-Delage,V,771.0,638.0,1.58
+416,Lac-Saint-Joseph,V,304.0,260.0,33.65
+417,Saint-Gabriel-de-Valcartier,MÉ,3223.0,3382.0,432.62
+418,Sainte-Brigitte-de-Laval,V,8468.0,7348.0,108.42
+419,Sainte-Catherine-de-la-Jacques-Cartier,V,8442.0,7706.0,120.7
+420,Shannon,V,6432.0,6031.0,63.54
+421,Stoneham-et-Tewkesbury,CU,9682.0,8359.0,670.03
+422,Baie-des-Sables,MÉ,613.0,628.0,65.07
+423,Grosses-Roches 3,MÉ,375.0,394.0,63.59
+424,Les Méchins,MÉ,995.0,987.0,441.39
+425,Matane,V,13987.0,14311.0,195.49
+426,Rivière-Bonjour 7,NO,16.0,0.0,1682.5
+427,Saint-Adelme 3,PE,484.0,520.0,100.58
+428,Saint-Jean-de-Cherbourg 3,PE,163.0,165.0,113.96
+429,Saint-Léandre,PE,375.0,400.0,104.72
+430,Saint-René-de-Matane 3,MÉ,961.0,991.0,253.89
+431,Saint-Ulric,MÉ,1567.0,1585.0,120.45
+432,Sainte-Félicité 3,MÉ,1100.0,1087.0,90.73
+433,Sainte-Paule,MÉ,247.0,233.0,83.36
+434,Albertville,MÉ,239.0,226.0,103.13
+435,Amqui,V,5999.0,6178.0,121.02
+436,Causapscal,V,2147.0,2304.0,161.61
+437,Lac-Alfred,NO,0.0,0.0,77.53
+438,Lac-Casault 7,NO,30.0,0.0,1428.21
+439,Lac-Matapédia 3,NO,10.0,5.0,71.01
+440,Lac-au-Saumon,MÉ,1488.0,1450.0,81.05
+441,Rivière-Patapédia-Est,NO,0.0,0.0,15.85
+442,Rivière-Vaseuse,NO,0.0,0.0,275.3
+443,Routhierville,NO,20.0,18.0,626.26
+444,Ruisseau-des-Mineurs 4,NO,5.0,0.0,935.95
+445,Saint-Alexandre-des-Lacs 3,PE,298.0,268.0,89.82
+446,Saint-Cléophas,PE,321.0,333.0,97.22
+447,Saint-Damase 3,PE,382.0,356.0,116.42
+448,Saint-Léon-le-Grand,PE,968.0,953.0,128.26
+449,Saint-Moïse,PE,542.0,580.0,109.8
+450,Saint-Noël,VL,392.0,398.0,45.8
+451,Saint-Tharcisius 3,PE,411.0,421.0,78.84
+452,Saint-Vianney,MÉ,446.0,441.0,145.6
+453,Saint-Zénon-du-Lac-Humqui,PE,370.0,359.0,113.09
+454,Sainte-Florence,MÉ,367.0,384.0,103.48
+455,Sainte-Irène,PE,369.0,327.0,135.09
+456,Sainte-Marguerite-Marie,MÉ,183.0,166.0,85.97
+457,Sayabec 3,MÉ,1706.0,1831.0,130.31
+458,Val-Brillant,MÉ,899.0,927.0,77.9
+459,Grand-Métis 3,MÉ,218.0,213.0,25.12
+460,La Rédemption,PE,384.0,432.0,116.63
+461,Lac-des-Eaux-Mortes,NO,47.0,0.0,923.26
+462,Lac-à-la-Croix,NO,0.0,0.0,223.35
+463,Les Hauteurs,MÉ,485.0,504.0,102.92
+464,Mont-Joli,V,6384.0,6281.0,24.24
+465,Métis-sur-Mer 3,V,594.0,572.0,48.22
+466,Padoue,MÉ,250.0,245.0,66.66
+467,Price,VL,1729.0,1759.0,2.51
+468,Saint-Charles-Garnier,PE,222.0,240.0,84.79
+469,Saint-Donat,PE,835.0,876.0,95.8
+470,Saint-Gabriel-de-Rimouski,MÉ,1177.0,1167.0,126.98
+471,Saint-Joseph-de-Lepage,PE,590.0,523.0,30.98
+472,Saint-Octave-de-Métis,PE,493.0,511.0,75.16
+473,Sainte-Angèle-de-Mérici,MÉ,989.0,953.0,107.78
+474,Sainte-Flavie,PE,904.0,884.0,38.23
+475,Sainte-Jeanne-d'Arc,PE,217.0,280.0,110.34
+476,Sainte-Luce,MÉ,2845.0,2801.0,72.59
+477,Frampton 3,MÉ,1309.0,1297.0,151.27
+478,Saint-Bernard,MÉ,2535.0,2321.0,90.1
+479,Saint-Elzéar,MÉ,2623.0,2400.0,87.07
+480,Saint-Isidore,MÉ,3286.0,2880.0,102.61
+481,Saint-Lambert-de-Lauzon,MÉ,6817.0,6647.0,106.76
+482,Sainte-Hénédine,PE,1440.0,1271.0,51.53
+483,Sainte-Marguerite,PE,1175.0,1078.0,83.05
+484,Sainte-Marie,V,13134.0,13565.0,107.55
+485,Saints-Anges,PE,1239.0,1157.0,68.65
+486,Scott,MÉ,2566.0,2352.0,31.29
+487,Vallée-Jonction 5,MÉ,1864.0,1875.0,25.45
+488,Prévost,V,13692.0,13002.0,34.29
+489,Saint-Colomban,V,17740.0,16019.0,92.71
+490,Saint-Hippolyte,MÉ,10669.0,9113.0,119.5
+491,Saint-Jérôme,V,80213.0,74346.0,90.18
+492,Sainte-Sophie,MÉ,18080.0,15690.0,111.2
+493,Communauté de Wemotaci,IRI,1142.0,1213.0,31.55
+494,La Bostonnais,MÉ,556.0,635.0,284.32
+495,La Tuque,V,11129.0,11001.0,24809.4
+496,Lac-Édouard,MÉ,220.0,191.0,898.32
+497,Obedjiwan 28,IRI,1991.0,2019.0,8.26
+498,Belcourt,MÉ,219.0,225.0,409.74
+499,Kitcisakik,S-É,257.0,274.0,1.51
+500,Lac Simon,IRI,1285.0,1380.0,3.14
+501,Lac-Granet,NO,0.0,0.0,217.77
+502,Lac-Metei,NO,0.0,0.0,72.12
+503,Malartic,V,3355.0,3377.0,147.45
+504,Matchi-Manitou,NO,0.0,0.0,164.77
+505,Rivière-Héva,MÉ,1495.0,1419.0,423.27
+506,Réservoir-Dozois,NO,0.0,0.0,3832.68
+507,Senneterre,V,2782.0,2868.0,14718.51
+508,Senneterre,PE,1202.0,1192.0,567.05
+509,Val-d'Or,V,32752.0,32491.0,3536.84
+510,Aumond,CT,754.0,754.0,212.82
+511,Blue Sea,MÉ,696.0,639.0,72.97
+512,Bois-Franc,MÉ,411.0,421.0,71.56
+513,Bouchette,MÉ,695.0,731.0,122.09
+514,Cascades-Malignes,NO,0.0,0.0,480.88
+515,Cayamant,MÉ,895.0,821.0,382.49
+516,Denholm,MÉ,546.0,505.0,177.33
+517,Déléage,MÉ,1916.0,1852.0,248.26
+518,Dépôt-Échouani,NO,0.0,0.0,308.12
+519,Egan-Sud,MÉ,508.0,504.0,49.82
+520,Gracefield,V,2376.0,2462.0,380.94
+521,Grand-Remous,MÉ,1159.0,1161.0,351.63
+522,Kazabazua,MÉ,1037.0,945.0,172.91
+523,Kitigan Zibi 5,IRI,1204.0,1231.0,195.06
+524,Lac-Lenôtre,NO,0.0,0.0,1934.31
+525,Lac-Moselle,NO,0.0,0.0,1144.81
+526,Lac-Pythonga,NO,0.0,0.0,5061.54
+527,Lac-Rapide 6,IRI,,,0.36
+528,Lac-Sainte-Marie,MÉ,677.0,566.0,205.71
+529,Low,CT,1020.0,982.0,257.78
+530,Maniwaki 5,V,3757.0,3843.0,5.67
+531,Messines,MÉ,1655.0,1609.0,110.11
+532,Montcerf-Lytton,MÉ,653.0,636.0,354.64
+533,Sainte-Thérèse-de-la-Gatineau,MÉ,588.0,520.0,60.68
+534,Beloeil,V,24104.0,22458.0,24.38
+535,Carignan,V,11740.0,9462.0,62.07
+536,Chambly,V,31444.0,29120.0,25.08
+537,McMasterville,MÉ,5936.0,5698.0,3.12
+538,Mont-Saint-Hilaire,V,18859.0,18585.0,44.08
+539,Otterburn Park,V,8479.0,8421.0,5.37
+540,Saint-Antoine-sur-Richelieu,MÉ,1738.0,1694.0,65.67
+541,Saint-Basile-le-Grand,V,17053.0,17059.0,35.84
+542,Saint-Charles-sur-Richelieu,MÉ,1735.0,1717.0,64.91
+543,Saint-Denis-sur-Richelieu,MÉ,2339.0,2308.0,84.64
+544,Saint-Jean-Baptiste,MÉ,3179.0,3107.0,72.36
+545,Saint-Marc-sur-Richelieu,MÉ,2245.0,2172.0,60.92
+546,Saint-Mathieu-de-Beloeil,MÉ,2952.0,2619.0,39.39
+547,Alma 5,V,30331.0,30771.0,194.92
+548,Belle-Rivière 3,NO,10.0,0.0,608.47
+549,Desbiens,V,995.0,1028.0,10.39
+550,Hébertville 3,MÉ,2500.0,2542.0,260.74
+551,Hébertville-Station,VL,1229.0,1311.0,31.5
+552,L'Ascension-de-Notre-Seigneur,PE,2079.0,1987.0,130.84
+553,Labrecque,MÉ,1328.0,1321.0,152.67
+554,Lac-Achouakan,NO,0.0,0.0,225.49
+555,Lac-Moncouche,NO,0.0,0.0,262.78
+556,Lamarche,MÉ,476.0,514.0,81.45
+557,Mont-Apica,NO,0.0,0.0,13.02
+558,Métabetchouan--Lac-à-la-Croix,V,4121.0,3985.0,187.49
+559,Saint-Bruno,MÉ,2902.0,2801.0,77.86
+560,Saint-Gédéon,MÉ,2177.0,2085.0,63.38
+561,Saint-Henri-de-Taillon 5,MÉ,803.0,826.0,61.74
+562,Saint-Ludger-de-Milot,MÉ,637.0,651.0,107.46
+563,Saint-Nazaire,MÉ,2029.0,2073.0,144.76
+564,Sainte-Monique,MÉ,858.0,846.0,152.53
+565,Laval,V,438366.0,422993.0,246.13
+566,Chambord,MÉ,1748.0,1765.0,120.85
+567,La Doré,PE,1359.0,1365.0,288.55
+568,Lac-Ashuapmushuan,NO,140.0,36.0,14684.28
+569,Lac-Bouchette,MÉ,1183.0,1196.0,904.26
+570,Mashteuiatsh,IRI,2010.0,1957.0,14.43
+571,Roberval,V,9840.0,10046.0,151.36
+572,Saint-André-du-Lac-Saint-Jean,VL,453.0,467.0,145.43
+573,Saint-François-de-Sales,MÉ,643.0,616.0,197.2
+574,Saint-Félicien,V,10089.0,10238.0,361.27
+575,Saint-Prime,MÉ,2760.0,2753.0,147.16
+576,Sainte-Hedwidge,MÉ,870.0,846.0,461.67
+577,Audet,MÉ,708.0,734.0,134.95
+578,Courcelles,MÉ,814.0,823.0,90.34
+579,Frontenac,MÉ,1811.0,1734.0,223.6
+580,Lac-Drolet,MÉ,1067.0,1021.0,124.3
+581,Lac-Mégantic,V,5747.0,5654.0,21.98
+582,Lambton,MÉ,1630.0,1617.0,108.45
+583,Marston,CT,777.0,705.0,71.83
+584,Milan,MÉ,318.0,299.0,129.44
+585,Nantes,MÉ,1388.0,1377.0,119.16
+586,Notre-Dame-des-Bois,MÉ,1028.0,938.0,192.51
+587,Piopolis,MÉ,398.0,358.0,103.38
+588,Saint-Augustin-de-Woburn,PE,667.0,692.0,281.07
+589,Saint-Ludger,MÉ,1074.0,1071.0,127.58
+590,Saint-Robert-Bellarmin,MÉ,529.0,575.0,236.33
+591,Saint-Romain,MÉ,711.0,691.0,112.12
+592,Saint-Sébastien,MÉ,674.0,657.0,91.95
+593,Sainte-Cécile-de-Whitton,MÉ,853.0,863.0,146.46
+594,Stornoway,MÉ,535.0,530.0,180.15
+595,Stratford,CT,1036.0,945.0,119.86
+596,Val-Racine,MÉ,183.0,178.0,116.06
+597,Henryville,MÉ,1497.0,1406.0,64.82
+598,Lacolle,MÉ,2708.0,2596.0,49.41
+599,Mont-Saint-Grégoire,MÉ,3136.0,3077.0,79.83
+600,Noyan,MÉ,1418.0,1392.0,44.28
+601,Saint-Alexandre,MÉ,2678.0,2469.0,76.27
+602,Saint-Blaise-sur-Richelieu,MÉ,2092.0,2066.0,69.54
+603,Saint-Georges-de-Clarenceville,MÉ,1154.0,1103.0,63.06
+604,Saint-Jean-sur-Richelieu,V,97873.0,95114.0,226.93
+605,Saint-Paul-de-l'Île-aux-Noix,MÉ,2141.0,1980.0,29.85
+606,Saint-Sébastien,MÉ,692.0,718.0,63.29
+607,Saint-Valentin,MÉ,418.0,447.0,39.27
+608,Sainte-Anne-de-Sabrevois,PE,2143.0,2039.0,44.65
+609,Sainte-Brigide-d'Iberville,MÉ,1428.0,1402.0,70.52
+610,Venise-en-Québec,MÉ,1899.0,1634.0,13.13
+611,Ascot Corner,MÉ,3368.0,3158.0,81.64
+612,Bury,MÉ,1252.0,1174.0,234.13
+613,Chartierville,MÉ,319.0,276.0,141.94
+614,Cookshire-Eaton,V,5344.0,5393.0,296.25
+615,Dudswell,MÉ,1755.0,1727.0,218.01
+616,East Angus,V,3840.0,3659.0,7.84
+617,Hampden,CT,193.0,176.0,111.68
+618,La Patrie,MÉ,805.0,768.0,204.61
+619,Lingwick,CT,456.0,428.0,243.01
+620,Newport,MÉ,698.0,733.0,270.63
+621,Saint-Isidore-de-Clifton,MÉ,673.0,695.0,176.94
+622,Scotstown,V,459.0,472.0,11.44
+623,Weedon,MÉ,2667.0,2670.0,215.95
+624,Westbury,CT,1097.0,1006.0,55.61
+625,Akwesasne 3 6,IRI,,2378.0,23.79
+626,Dundee,CT,386.0,387.0,68.41
+627,Elgin,MÉ,389.0,394.0,69.35
+628,Franklin,MÉ,1635.0,1636.0,112.33
+629,Godmanchester,CT,1403.0,1394.0,138.66
+630,Havelock,CT,756.0,740.0,88.7
+631,Hinchinbrooke,MÉ,2187.0,2103.0,148.36
+632,Howick,MÉ,850.0,778.0,0.96
+633,Huntingdon,V,2556.0,2444.0,2.77
+634,Ormstown,MÉ,3917.0,3595.0,142.24
+635,Saint-Anicet,MÉ,2754.0,2626.0,135.03
+636,Saint-Chrysostome,MÉ,2582.0,2645.0,100.2
+637,Sainte-Barbe,MÉ,1609.0,1324.0,40.14
+638,Très-Saint-Sacrement,PE,1189.0,1186.0,97.16
+639,Chandler,V,7490.0,7546.0,418.45
+640,Grande-Rivière,V,3384.0,3408.0,87.92
+641,Mont-Alexandre,NO,0.0,0.0,1800.87
+642,Percé,V,3095.0,3103.0,432.81
+643,Port-Daniel--Gascons,MÉ,2271.0,2210.0,300.29
+644,Sainte-Thérèse-de-Gaspé,MÉ,979.0,1015.0,34.45
+645,Bégin,MÉ,851.0,818.0,189.67
+646,Ferland-et-Boilleau,MÉ,632.0,540.0,383.09
+647,L'Anse-Saint-Jean,MÉ,1301.0,1201.0,501.79
+648,Lac-Ministuk,NO,58.0,0.0,1478.79
+649,Lalemant,NO,0.0,0.0,190.57
+650,Larouche,MÉ,1601.0,1486.0,84.71
+651,Mont-Valin,NO,10.0,0.0,33540.39
+652,Petit-Saguenay,MÉ,600.0,634.0,329.63
+653,Rivière-Éternité,MÉ,414.0,413.0,473.17
+654,Saguenay,V,144723.0,145949.0,1124.63
+655,Saint-Ambroise,MÉ,3883.0,3781.0,149.37
+656,Saint-Charles-de-Bourget,MÉ,784.0,736.0,62.13
+657,Saint-David-de-Falardeau,MÉ,2996.0,2768.0,398.25
+658,Saint-Fulgence,MÉ,2061.0,2071.0,351.91
+659,Saint-Félix-d'Otis,MÉ,1109.0,956.0,233.16
+660,Saint-Honoré,V,6376.0,5757.0,189.38
+661,Sainte-Rose-du-Nord,PE,434.0,439.0,116.61
+662,Bonsecours,MÉ,650.0,608.0,60.36
+663,Cleveland,CT,1581.0,1541.0,123.59
+664,Kingsbury,VL,142.0,138.0,6.11
+665,Lawrenceville,VL,618.0,635.0,16.73
+666,Maricourt,MÉ,456.0,416.0,61.1
+667,Melbourne,CT,1096.0,1063.0,173.93
+668,Racine,MÉ,1340.0,1323.0,105.63
+669,Richmond,V,3259.0,3232.0,6.98
+670,Saint-Claude,MÉ,1141.0,1185.0,118.85
+671,Saint-Denis-de-Brompton,MÉ,4594.0,4054.0,70.29
+672,Saint-François-Xavier-de-Brompton,MÉ,2469.0,2273.0,97.71
+673,Sainte-Anne-de-la-Rochelle,MÉ,625.0,598.0,61.86
+674,Stoke,MÉ,3014.0,2955.0,255.12
+675,Ulverton,MÉ,433.0,418.0,51.27
+676,Val-Joli,MÉ,1671.0,1619.0,91.69
+677,Valcourt,V,2139.0,2165.0,5.41
+678,Valcourt,CT,1029.0,1044.0,80.39
+679,Windsor,V,5294.0,5419.0,14.53
+680,Adstock,MÉ,2903.0,2806.0,290.03
+681,Beaulac-Garthby,MÉ,931.0,905.0,75.96
+682,Disraeli,V,2360.0,2336.0,6.8
+683,Disraeli,PE,1163.0,1123.0,92.53
+684,East Broughton,MÉ,2248.0,2199.0,8.86
+685,Irlande,MÉ,897.0,884.0,109.85
+686,Kinnear's Mills,MÉ,397.0,350.0,93.66
+687,Sacré-Coeur-de-Jésus,PE,536.0,521.0,104.73
+688,Saint-Adrien-d'Irlande,MÉ,395.0,399.0,53.18
+689,Saint-Fortunat,MÉ,255.0,263.0,76.09
+690,Saint-Jacques-de-Leeds,MÉ,711.0,685.0,80.56
+691,Saint-Jacques-le-Majeur-de-Wolfestown,PE,186.0,188.0,58.71
+692,Saint-Jean-de-Brébeuf,MÉ,351.0,372.0,79.15
+693,Saint-Joseph-de-Coleraine,MÉ,1820.0,1762.0,126.76
+694,Saint-Julien,MÉ,378.0,376.0,81.7
+695,Saint-Pierre-de-Broughton,MÉ,889.0,898.0,150.56
+696,Sainte-Clotilde-de-Beauce,MÉ,569.0,549.0,60.55
+697,Sainte-Praxède,PE,351.0,327.0,136.18
+698,Thetford Mines,V,26072.0,25403.0,225.97
+699,Lac-Boisbouscache,NO,0.0,0.0,98.15
+700,Notre-Dame-des-Neiges,MÉ,1194.0,1085.0,94.44
+701,Saint-Clément,MÉ,479.0,460.0,86.72
+702,Saint-Guy,MÉ,76.0,54.0,139.54
+703,Saint-Jean-de-Dieu,MÉ,1651.0,1596.0,152.04
+704,Saint-Mathieu-de-Rioux,MÉ,691.0,639.0,107.27
+705,Saint-Médard,MÉ,216.0,209.0,75.28
+706,Saint-Simon-de-Rimouski,MÉ,455.0,426.0,74.84
+707,Saint-Éloi,PE,310.0,286.0,65.77
+708,Sainte-Françoise,PE,383.0,386.0,88.83
+709,Sainte-Rita,MÉ,303.0,307.0,129.52
+710,Trois-Pistoles,V,3115.0,3246.0,7.63
+711,Cantley,MÉ,11449.0,10699.0,126.12
+712,Chelsea,MÉ,8000.0,6909.0,112.65
+713,L'Ange-Gardien,MÉ,6102.0,5464.0,216.05
+714,La Pêche,MÉ,8636.0,7863.0,577.18
+715,Notre-Dame-de-la-Salette,MÉ,841.0,727.0,113.33
+716,Pontiac,MÉ,6142.0,5850.0,445.27
+717,Val-des-Monts,MÉ,13328.0,11582.0,434.77
+718,Lac-Etchemin,MÉ,4028.0,3822.0,157.22
+719,Saint-Benjamin,MÉ,1090.0,987.0,111.53
+720,Saint-Camille-de-Lellis,PE,737.0,752.0,251.93
+721,Saint-Cyprien,PE,474.0,490.0,93.48
+722,Saint-Louis-de-Gonzague,MÉ,390.0,374.0,118.01
+723,Saint-Luc-de-Bellechasse,MÉ,449.0,438.0,161.99
+724,Saint-Magloire,MÉ,712.0,676.0,208.61
+725,Saint-Prosper,MÉ,3596.0,3590.0,133.74
+726,Saint-Zacharie,MÉ,1684.0,1653.0,186.56
+727,Sainte-Aurélie,MÉ,856.0,847.0,78.25
+728,Sainte-Justine,MÉ,1828.0,1820.0,126.28
+729,Sainte-Rose-de-Watford,MÉ,740.0,729.0,115.13
+730,Sainte-Sabine,PE,343.0,358.0,66.89
+731,Hemmingford,VL,829.0,755.0,1.07
+732,Hemmingford,CT,1995.0,1900.0,157.22
+733,Napierville,MÉ,4020.0,3899.0,4.5
+734,Saint-Bernard-de-Lacolle,MÉ,1542.0,1549.0,113.36
+735,Saint-Cyprien-de-Napierville,MÉ,1735.0,1927.0,97.75
+736,Saint-Jacques-le-Mineur,MÉ,1766.0,1690.0,67.18
+737,Saint-Michel,MÉ,3521.0,3186.0,59.82
+738,Saint-Patrice-de-Sherrington,MÉ,1963.0,1960.0,92.55
+739,Saint-Rémi,V,8957.0,8061.0,78.18
+740,Saint-Édouard,MÉ,1365.0,1321.0,52.68
+741,Sainte-Clotilde,MÉ,2646.0,1622.0,78.21
+742,Amherst,CT,1728.0,1484.0,227.86
+743,Arundel,CT,578.0,563.0,63.45
+744,Barkmere,V,81.0,58.0,17.72
+745,Brébeuf,PE,1009.0,976.0,35.78
+746,Doncaster 6,IRI,,,74.62
+747,Huberdeau,MÉ,863.0,868.0,56.72
+748,Ivry-sur-le-Lac,MÉ,391.0,387.0,29.3
+749,La Conception,MÉ,1527.0,1337.0,127.37
+750,La Minerve,MÉ,1421.0,1205.0,274.92
+751,Labelle,MÉ,2765.0,2477.0,196.69
+752,Lac-Supérieur,MÉ,1972.0,1888.0,365.98
+753,Lac-Tremblant-Nord,MÉ,60.0,42.0,20.62
+754,Lantier,MÉ,891.0,834.0,48.19
+755,Mont-Tremblant,V,10992.0,9646.0,233.75
+756,Montcalm,MÉ,632.0,628.0,117.71
+757,Saint-Faustin--Lac-Carré,MÉ,3780.0,3499.0,120.21
+758,Sainte-Agathe-des-Monts,V,11211.0,10223.0,129.1
+759,Sainte-Lucie-des-Laurentides,MÉ,1445.0,1256.0,108.98
+760,Val-David,VL,5558.0,4917.0,42.66
+761,Val-Morin,MÉ,3123.0,2870.0,39.2
+762,Val-des-Lacs,MÉ,750.0,744.0,126.7
+763,La Présentation,MÉ,2638.0,2540.0,94.39
+764,Saint-Barnabé-Sud,MÉ,962.0,861.0,57.2
+765,Saint-Bernard-de-Michaudville,MÉ,616.0,586.0,66.05
+766,Saint-Damase,MÉ,2447.0,2473.0,79.65
+767,Saint-Dominique,MÉ,2741.0,2553.0,70.53
+768,Saint-Hugues,MÉ,1340.0,1327.0,84.64
+769,Saint-Hyacinthe,V,57239.0,55648.0,188.85
+770,Saint-Jude,MÉ,1326.0,1214.0,77.33
+771,Saint-Liboire,MÉ,3036.0,3062.0,73.82
+772,Saint-Louis,MÉ,740.0,712.0,47.21
+773,Saint-Marcel-de-Richelieu,MÉ,507.0,497.0,51.27
+774,Saint-Pie,V,5847.0,5607.0,107.42
+775,Saint-Simon,MÉ,1386.0,1413.0,69.05
+776,Saint-Valérien-de-Milton,MÉ,1767.0,1793.0,106.92
+777,Sainte-Hélène-de-Bagot,MÉ,1696.0,1688.0,72.41
+778,Sainte-Madeleine,VL,2268.0,2233.0,5.36
+779,Sainte-Marie-Madeleine,PE,2876.0,2892.0,50.04
+780,Mascouche,V,51183.0,46692.0,106.89
+781,Terrebonne,V,119944.0,111575.0,153.76
+782,Estérel,V,262.0,196.0,12.62
+783,Lac-des-Seize-Îles 5,MÉ,175.0,192.0,8.88
+784,Morin-Heights,MÉ,4678.0,4145.0,55.96
+785,Piedmont,MÉ,3476.0,2950.0,24.36
+786,Saint-Adolphe-d'Howard,MÉ,3824.0,3509.0,135.8
+787,Saint-Sauveur,V,11580.0,10231.0,47.62
+788,Sainte-Adèle,V,14010.0,12919.0,119.67
+789,Sainte-Anne-des-Lacs,PE,3862.0,3611.0,24.65
+790,Sainte-Marguerite-du-Lac-Masson,V,3367.0,2763.0,91.56
+791,Wentworth-Nord 5,MÉ,1672.0,1361.0,152.87
+792,Danville,V,3888.0,3826.0,151.73
+793,Ham-Sud,MÉ,214.0,235.0,151.21
+794,Saint-Adrien,MÉ,522.0,522.0,98.52
+795,Saint-Camille,CT,551.0,529.0,83.1
+796,Saint-Georges-de-Windsor,MÉ,958.0,958.0,127.46
+797,Val-des-Sources,V,7088.0,6786.0,30.25
+798,Wotton,MÉ,1402.0,1430.0,143.15
+799,Boucherville,V,41743.0,41671.0,71.02
+800,Brossard,V,91525.0,85721.0,45.19
+801,Longueuil 5,V,254483.0,239897.0,115.77
+802,Saint-Bruno-de-Montarville 5,V,26273.0,26197.0,42.85
+803,Saint-Lambert,V,22761.0,21861.0,7.56
+804,Dosquet,MÉ,935.0,944.0,65.07
+805,Laurier-Station,VL,2570.0,2573.0,12.16
+806,Leclercville,MÉ,491.0,473.0,136.61
+807,Lotbinière,MÉ,855.0,812.0,79.91
+808,Notre-Dame-du-Sacré-Coeur-d'Issoudun,PE,867.0,861.0,60.32
+809,Saint-Agapit,MÉ,4526.0,4280.0,65.4
+810,Saint-Antoine-de-Tilly,MÉ,1682.0,1598.0,59.95
+811,Saint-Apollinaire,MÉ,7968.0,6110.0,96.83
+812,Saint-Flavien,MÉ,1619.0,1618.0,66.16
+813,Saint-Gilles,MÉ,2910.0,2525.0,177.43
+814,Saint-Janvier-de-Joly,MÉ,1079.0,984.0,109.88
+815,Saint-Narcisse-de-Beaurivage,PE,1152.0,1106.0,62.07
+816,Saint-Patrice-de-Beaurivage,MÉ,1109.0,1036.0,85.73
+817,Saint-Sylvestre,MÉ,1019.0,1019.0,147.15
+818,Saint-Édouard-de-Lotbinière,PE,1240.0,1194.0,98.43
+819,Sainte-Agathe-de-Lotbinière,MÉ,1049.0,1168.0,166.99
+820,Sainte-Croix,MÉ,2529.0,2516.0,69.63
+821,Val-Alain,MÉ,986.0,924.0,102.54
+822,Lévis,V,149683.0,143414.0,448.07
+823,Baie-Comeau,V,20687.0,21536.0,334.83
+824,Baie-Trinité,VL,438.0,407.0,417.48
+825,Chute-aux-Outardes,VL,1391.0,1563.0,7.51
+826,Franquelin,MÉ,285.0,313.0,436.55
+827,Godbout,VL,272.0,265.0,159.18
+828,Pessamit,IRI,2428.0,2256.0,245.19
+829,Pointe-Lebel,VL,1817.0,1918.0,85.54
+830,Pointe-aux-Outardes,VL,1434.0,1332.0,75.19
+831,Ragueneau,PE,1314.0,1343.0,179.83
+832,Rivière-aux-Outardes,NO,92.0,94.0,32713.75
+833,Calixa-Lavallée,MÉ,509.0,523.0,32.2
+834,Contrecoeur,V,9480.0,7887.0,62.2
+835,Saint-Amable,V,13322.0,12167.0,36.77
+836,Sainte-Julie,V,30045.0,29881.0,48.49
+837,Varennes,V,21198.0,21257.0,94.8
+838,Verchères,MÉ,5759.0,5835.0,72.63
+839,Albanel,MÉ,2181.0,2262.0,197.45
+840,Dolbeau-Mistassini 3,V,13718.0,14212.0,293.43
+841,Girardville,MÉ,1018.0,988.0,124.11
+842,Normandin,V,2991.0,3033.0,211.79
+843,Notre-Dame-de-Lorette,MÉ,159.0,189.0,325.77
+844,Passes-Dangereuses 3,NO,210.0,184.0,15579.11
+845,Péribonka,MÉ,489.0,515.0,110.3
+846,Rivière-Mistassini 3,NO,27.0,49.0,17629.74
+847,Saint-Augustin,PE,334.0,351.0,104.25
+848,Saint-Edmond-les-Plaines,MÉ,355.0,381.0,84.39
+849,Saint-Eugène-d'Argentenay,MÉ,487.0,488.0,87.05
+850,Saint-Stanislas,MÉ,376.0,373.0,153.58
+851,Saint-Thomas-Didyme,MÉ,703.0,676.0,333.25
+852,Sainte-Jeanne-d'Arc,VL,1101.0,1050.0,267.28
+853,Charette,MÉ,1034.0,953.0,41.9
+854,Louiseville,V,7340.0,7152.0,62.59
+855,Maskinongé,MÉ,2323.0,2319.0,73.31
+856,Saint-Alexis-des-Monts,PE,2999.0,2981.0,1035.74
+857,Saint-Barnabé,PE,1186.0,1196.0,58.94
+858,Saint-Boniface,MÉ,5156.0,4832.0,107.42
+859,Saint-Justin,MÉ,961.0,973.0,78.96
+860,Saint-Léon-le-Grand,PE,863.0,928.0,75.97
+861,Saint-Mathieu-du-Parc,MÉ,1482.0,1338.0,218.85
+862,Saint-Paulin,MÉ,1541.0,1497.0,95.41
+863,Saint-Sévère,PE,337.0,302.0,31.85
+864,Saint-Édouard-de-Maskinongé,MÉ,798.0,712.0,52.82
+865,Saint-Élie-de-Caxton,MÉ,1934.0,1836.0,116.84
+866,Saint-Étienne-des-Grès,PE,4539.0,4541.0,104.54
+867,Sainte-Angèle-de-Prémont,MÉ,631.0,596.0,37.73
+868,Sainte-Ursule,MÉ,1355.0,1330.0,67.83
+869,Yamachiche,MÉ,2813.0,2830.0,106.39
+870,Baie-Atibenne,NO,0.0,0.0,527.58
+871,Baie-Obaoca,NO,0.0,0.0,1261.66
+872,Baie-de-la-Bouteille,NO,10.0,5.0,1938.18
+873,Chertsey,MÉ,5295.0,4696.0,286.05
+874,Communauté Atikamekw de Manawan,IRI,2000.0,2060.0,8.03
+875,Entrelacs,MÉ,1054.0,928.0,48.71
+876,Lac-Cabasta,NO,0.0,0.0,4.7
+877,Lac-Devenyns,NO,5.0,0.0,100.71
+878,Lac-Legendre,NO,0.0,0.0,693.58
+879,Lac-Matawin,NO,10.0,10.0,759.12
+880,Lac-Minaki,NO,0.0,0.0,80.59
+881,Lac-Santé,NO,0.0,0.0,12.21
+882,Lac-des-Dix-Milles,NO,0.0,0.0,224.78
+883,Lac-du-Taureau,NO,0.0,0.0,5.86
+884,Notre-Dame-de-la-Merci,MÉ,1097.0,905.0,248.58
+885,Rawdon,MÉ,11719.0,11057.0,185.38
+886,Saint-Alphonse-Rodriguez,MÉ,3339.0,3162.0,97.54
+887,Saint-Côme,MÉ,2583.0,2193.0,164.89
+888,Saint-Damien,PE,2393.0,2094.0,252.28
+889,Saint-Donat,MÉ,4561.0,3888.0,350.17
+890,Saint-Félix-de-Valois,MÉ,6975.0,6305.0,88.4
+891,Saint-Guillaume-Nord,NO,102.0,87.0,752.78
+892,Saint-Jean-de-Matha,MÉ,4838.0,4450.0,109.49
+893,Saint-Michel-des-Saints,MÉ,2496.0,2359.0,493.92
+894,Saint-Zénon,MÉ,1317.0,1120.0,460.41
+895,Sainte-Béatrix,MÉ,2170.0,1955.0,82.96
+896,Sainte-Marcelline-de-Kildare,MÉ,1795.0,1594.0,34.52
+897,Sainte-Émélie-de-l'Énergie,MÉ,1741.0,1567.0,150.08
+898,Austin,MÉ,1748.0,1485.0,73.58
+899,Ayer's Cliff 3,VL,1180.0,1073.0,5.53
+900,Bolton-Est,MÉ,1108.0,940.0,79.39
+901,Eastman,MÉ,2279.0,1843.0,73.57
+902,Hatley 3,MÉ,771.0,685.0,60.43
+903,Hatley,CT,2230.0,2106.0,71.6
+904,Magog,V,28312.0,26669.0,144.26
+905,North Hatley,VL,675.0,632.0,3.35
+906,Ogden,MÉ,761.0,741.0,74.68
+907,Orford,CT,5007.0,4337.0,136.14
+908,Potton,CT,2012.0,1852.0,260.77
+909,Saint-Benoît-du-Lac,MÉ,43.0,32.0,2.18
+910,Saint-Étienne-de-Bolton,MÉ,816.0,674.0,47.27
+911,Sainte-Catherine-de-Hatley,MÉ,2741.0,2479.0,86.34
+912,Stanstead,V,2824.0,2788.0,21.95
+913,Stanstead,CT,1148.0,1036.0,113.2
+914,Stukely-Sud,VL,1142.0,1058.0,63.19
+915,Aguanish,MÉ,224.0,245.0,532.04
+916,Baie-Johan-Beetz,MÉ,84.0,86.0,327.46
+917,Blanc-Sablon,MÉ,1122.0,1112.0,234.98
+918,Bonne-Espérance,MÉ,692.0,681.0,622.99
+919,Côte-Nord-du-Golfe-du-Saint-Laurent,MÉ,787.0,856.0,2597.05
+920,Gros-Mécatina 3,MÉ,356.0,451.0,742.15
+921,Havre-Saint-Pierre,MÉ,3337.0,3460.0,2570.09
+922,L'Île-d'Anticosti,MÉ,177.0,218.0,7715.99
+923,Lac-Jérôme,NO,0.0,0.0,40019.7
+924,Longue-Pointe-de-Mingan,MÉ,408.0,434.0,370.03
+925,Mingan,IRI,552.0,552.0,17.24
+926,Natashquan,MÉ,262.0,263.0,667.91
+927,Nutashkuan,IRI,915.0,835.0,1.35
+928,Pakuashipi 6,S-É,,237.0,3.87
+929,Petit-Mécatina,NO,0.0,0.0,35347.19
+930,Rivière-Saint-Jean,MÉ,227.0,215.0,513.36
+931,Rivière-au-Tonnerre,MÉ,281.0,279.0,605.14
+932,Romaine 2 6,IRI,,977.0,0.84
+933,Saint-Augustin,MÉ,425.0,445.0,1137.68
+934,Mirabel,V,61108.0,50513.0,484.09
+935,Saint-Alexis,MÉ,1370.0,1308.0,43.01
+936,Saint-Calixte,MÉ,6792.0,6046.0,142.63
+937,Saint-Esprit,MÉ,2011.0,1967.0,54.19
+938,Saint-Jacques,MÉ,4302.0,3971.0,67.17
+939,Saint-Liguori,MÉ,2066.0,1943.0,50.88
+940,Saint-Lin--Laurentides,V,24030.0,20786.0,118.29
+941,Saint-Roch-Ouest,MÉ,262.0,266.0,20.14
+942,Saint-Roch-de-l'Achigan,MÉ,5453.0,5147.0,80.06
+943,Sainte-Julienne,MÉ,11173.0,9953.0,99.42
+944,Sainte-Marie-Salomé,MÉ,1221.0,1209.0,33.79
+945,Berthier-sur-Mer,MÉ,1744.0,1555.0,26.85
+946,Cap-Saint-Ignace,MÉ,3099.0,3089.0,204.32
+947,Lac-Frontière,MÉ,175.0,184.0,49.96
+948,Montmagny,V,10999.0,11255.0,124.44
+949,Notre-Dame-du-Rosaire,MÉ,371.0,392.0,164.63
+950,Saint-Antoine-de-l'Isle-aux-Grues,PE,122.0,144.0,23.97
+951,Saint-Fabien-de-Panet,PE,945.0,954.0,187.01
+952,Saint-François-de-la-Rivière-du-Sud,MÉ,1580.0,1623.0,96.35
+953,Saint-Just-de-Bretenières,MÉ,639.0,668.0,132.6
+954,Saint-Paul-de-Montminy,MÉ,849.0,785.0,162.77
+955,Saint-Pierre-de-la-Rivière-du-Sud,PE,840.0,907.0,91.05
+956,Sainte-Apolline-de-Patton,PE,505.0,542.0,256.51
+957,Sainte-Euphémie-sur-Rivière-du-Sud,MÉ,338.0,320.0,92.44
+958,Sainte-Lucie-de-Beauregard,MÉ,275.0,280.0,82.17
+959,Baie-D'Urfé,V,3764.0,3823.0,6.03
+960,Beaconsfield,V,19277.0,19324.0,11.03
+961,Côte-Saint-Luc,V,34504.0,32448.0,7.04
+962,Dollard-Des Ormeaux,V,48403.0,48899.0,14.98
+963,Dorval,V,19302.0,18980.0,20.91
+964,Hampstead,V,7037.0,6973.0,1.79
+965,Kirkland,V,19413.0,20151.0,9.65
+966,L'Île-Dorval,V,30.0,5.0,0.19
+967,Mont-Royal,V,20953.0,20276.0,7.55
+968,Montréal,V,1762949.0,1704694.0,364.74
+969,Montréal-Est,V,4394.0,3850.0,12.15
+970,Montréal-Ouest,V,5115.0,5050.0,1.37
+971,Pointe-Claire,V,33488.0,31380.0,18.91
+972,Sainte-Anne-de-Bellevue,V,5027.0,4958.0,10.46
+973,Senneville,VL,951.0,921.0,7.45
+974,Westmount,V,19658.0,20312.0,4.04
+975,Grandes-Piles,VL,493.0,415.0,116.97
+976,Hérouxville,PE,1367.0,1278.0,54.72
+977,Lac-Boulé,NO,0.0,0.0,22.95
+978,Lac-Masketsi,NO,0.0,0.0,211.51
+979,Lac-Normand,NO,29.0,5.0,2016.35
+980,Lac-aux-Sables,PE,1380.0,1292.0,269.7
+981,Notre-Dame-de-Montauban,MÉ,815.0,745.0,162.4
+982,Rivière-de-la-Savane,NO,41.0,0.0,1087.02
+983,Saint-Adelphe,PE,922.0,922.0,137.08
+984,Saint-Roch-de-Mékinac,PE,304.0,302.0,144.52
+985,Saint-Séverin,PE,812.0,846.0,61.65
+986,Saint-Tite,V,3672.0,3673.0,91.1
+987,Sainte-Thècle,MÉ,2415.0,2484.0,212.48
+988,Trois-Rives,MÉ,512.0,396.0,597.76
+989,Aston-Jonction,MÉ,441.0,424.0,26.2
+990,Baie-du-Febvre,MÉ,961.0,988.0,96.78
+991,Grand-Saint-Esprit,MÉ,488.0,476.0,27.22
+992,La Visitation-de-Yamaska,MÉ,295.0,327.0,42.65
+993,Nicolet,V,8620.0,8169.0,96.11
+994,Odanak 5,IRI,481.0,449.0,5.61
+995,Pierreville 5,MÉ,2104.0,2143.0,77.71
+996,Saint-Célestin,VL,892.0,831.0,1.41
+997,Saint-Célestin,MÉ,594.0,575.0,76.99
+998,Saint-Elphège,PE,251.0,270.0,40.53
+999,Saint-François-du-Lac,MÉ,1898.0,1965.0,63.8
+1000,Saint-Léonard-d'Aston,MÉ,2530.0,2331.0,82.55
+1001,Saint-Wenceslas,MÉ,1167.0,1157.0,79.57
+1002,Saint-Zéphirin-de-Courval,PE,707.0,700.0,71.94
+1003,Sainte-Eulalie,MÉ,984.0,894.0,86.3
+1004,Sainte-Monique,MÉ,519.0,501.0,58.1
+1005,Sainte-Perpétue,PE,916.0,959.0,71.51
+1006,Akulivik,VN,642.0,633.0,75.02
+1007,Akulivik,TI,0.0,0.0,433.92
+1008,Aupaluk,VN,233.0,209.0,28.68
+1009,Aupaluk,TI,0.0,0.0,525.88
+1010,Baie-d'Hudson,NO,5.0,0.0,120831.34
+1011,Chapais,V,1468.0,1499.0,62.31
+1012,Chibougamau,V,7233.0,7504.0,694.87
+1013,Chisasibi,VC,0.0,0.0,480.29
+1014,Chisasibi,TC,4985.0,4872.0,825.11
+1015,Eastmain,VC,0.0,0.0,317.72
+1016,Eastmain,TC,924.0,866.0,148.99
+1017,Eeyou Istchee Baie-James 5,GR,2638.0,1579.0,283123.42
+1018,Inukjuak,VN,1821.0,1757.0,54.92
+1019,Inukjuak,TI,0.0,0.0,420.69
+1020,Ivujivik,VN,412.0,414.0,35.15
+1021,Ivujivik,TI,0.0,0.0,438.05
+1022,Kangiqsualujjuaq,VN,956.0,942.0,34.33
+1023,Kangiqsualujjuaq,TI,0.0,0.0,530.48
+1024,Kangiqsujuaq,VN,837.0,750.0,12.41
+1025,Kangiqsujuaq,TI,0.0,0.0,561.33
+1026,Kangirsuk,VN,561.0,567.0,57.15
+1027,Kangirsuk,TI,0.0,0.0,512.43
+1028,Kawawachikamach,VK,0.0,0.0,234.8
+1029,Kuujjuaq,VN,2668.0,2754.0,289.97
+1030,Kuujjuaq,TI,0.0,0.0,315.46
+1031,Kuujjuarapik 5,VN,792.0,654.0,7.45
+1032,Kuujjuarapik,TI,0.0,0.0,289.92
+1033,Lebel-sur-Quévillon,V,2091.0,2187.0,44.41
+1034,Matagami,V,1402.0,1453.0,75.12
+1035,Mistissini,VC,10.0,0.0,488.03
+1036,Mistissini,TC,3731.0,3523.0,807.75
+1037,Nemaska,VC,0.0,0.0,47.89
+1038,Nemaska,TC,832.0,760.0,98.42
+1039,Oujé-Bougoumou 5,TC,797.0,747.0,96.22
+1040,Puvirnituq,VN,2129.0,1779.0,81.61
+1041,Quaqtaq,VN,453.0,403.0,25.82
+1042,Quaqtaq,TI,0.0,0.0,503.65
+1043,Rivière-Koksoak,NO,0.0,0.0,290009.61
+1044,Salluit,VN,1580.0,1483.0,15.08
+1045,Salluit,TI,0.0,0.0,591.68
+1046,Tasiujaq,VN,420.0,369.0,65.53
+1047,Tasiujaq,TI,0.0,0.0,492.69
+1048,Umiujaq,VN,541.0,442.0,28.38
+1049,Umiujaq,TI,0.0,0.0,253.95
+1050,Waskaganish,VC,0.0,0.0,274.22
+1051,Waskaganish,TC,2536.0,2196.0,496.99
+1052,Waswanipi,VC,0.0,0.0,213.35
+1053,Waswanipi,TC,459.0,1759.0,385.83
+1054,Wemindji,VC,0.0,0.0,169.12
+1055,Wemindji,TC,1562.0,1444.0,387.37
+1056,Whapmagoostui,VC,0.0,0.0,120.86
+1057,Whapmagoostui 5,TC,1022.0,1016.0,190.83
+1058,Boileau,MÉ,405.0,335.0,134.08
+1059,Bowman,MÉ,667.0,658.0,126.4
+1060,Chénéville,MÉ,848.0,764.0,65.83
+1061,Duhamel,MÉ,569.0,430.0,427.32
+1062,Fassett,MÉ,453.0,431.0,12.52
+1063,Lac-Simon,MÉ,1057.0,944.0,95.65
+1064,Lac-des-Plages,MÉ,548.0,431.0,150.95
+1065,Lochaber,CT,446.0,415.0,62.14
+1066,Lochaber-Partie-Ouest,CT,926.0,856.0,57.39
+1067,Mayo,MÉ,704.0,601.0,72.51
+1068,Montebello,MÉ,934.0,983.0,8.6
+1069,Montpellier,MÉ,1112.0,985.0,246.12
+1070,Mulgrave-et-Derry,MÉ,461.0,369.0,289.52
+1071,Namur,MÉ,633.0,572.0,56.17
+1072,Notre-Dame-de-Bonsecours,MÉ,285.0,301.0,258.36
+1073,Notre-Dame-de-la-Paix,MÉ,675.0,648.0,105.96
+1074,Papineauville,MÉ,2153.0,2101.0,61.13
+1075,Plaisance,MÉ,1129.0,1088.0,36.21
+1076,Ripon,MÉ,1735.0,1542.0,129.93
+1077,Saint-André-Avellin,MÉ,3562.0,3749.0,137.34
+1078,Saint-Sixte,MÉ,490.0,469.0,84.34
+1079,Saint-Émile-de-Suffolk,MÉ,512.0,477.0,55.68
+1080,Thurso,V,3084.0,2818.0,6.65
+1081,Val-des-Bois,MÉ,920.0,865.0,222.67
+1082,Massueville,VL,547.0,529.0,1.55
+1083,Saint-Aimé,MÉ,405.0,461.0,60.53
+1084,Saint-David,MÉ,872.0,817.0,92.97
+1085,Saint-Gérard-Majella,PE,240.0,242.0,38.32
+1086,Saint-Joseph-de-Sorel,V,1581.0,1642.0,1.36
+1087,Saint-Ours,V,1723.0,1669.0,59.23
+1088,Saint-Robert,MÉ,1813.0,1803.0,64.97
+1089,Saint-Roch-de-Richelieu,MÉ,2573.0,2188.0,34.44
+1090,Sainte-Anne-de-Sorel,MÉ,2731.0,2771.0,36.41
+1091,Sainte-Victoire-de-Sorel,MÉ,2457.0,2461.0,75.26
+1092,Sorel-Tracy,V,35165.0,34755.0,57.28
+1093,Yamaska,MÉ,1736.0,1687.0,72.82
+1094,Alleyn-et-Cawood,MÉ,229.0,172.0,308.91
+1095,Bristol,MÉ,1199.0,1036.0,206.19
+1096,Bryson,MÉ,646.0,697.0,3.58
+1097,Campbell's Bay,MÉ,705.0,744.0,3.42
+1098,Chichester 3,CT,350.0,348.0,218.74
+1099,Clarendon,MÉ,1392.0,1256.0,330.46
+1100,Fort-Coulonge,VL,1312.0,1433.0,2.96
+1101,L'Isle-aux-Allumettes,MÉ,1382.0,1334.0,185.94
+1102,L'Île-du-Grand-Calumet,MÉ,648.0,626.0,130.55
+1103,Lac-Nilgaut,NO,5.0,5.0,8966.53
+1104,Litchfield,MÉ,500.0,459.0,198.57
+1105,Mansfield-et-Pontefract,MÉ,2250.0,2285.0,466.61
+1106,Otter Lake,MÉ,1041.0,932.0,454.7
+1107,Portage-du-Fort,VL,232.0,234.0,4.22
+1108,Rapides-des-Joachims,MÉ,141.0,156.0,238.9
+1109,Shawville,MÉ,1668.0,1587.0,5.38
+1110,Sheenboro 3,MÉ,149.0,130.0,565.43
+1111,Thorne,MÉ,528.0,448.0,173.09
+1112,Waltham,MÉ,387.0,378.0,360.19
+1113,Cap-Santé 5,V,3594.0,3410.0,54.49
+1114,Deschambault-Grondines,MÉ,2235.0,2220.0,124.02
+1115,Donnacona,V,7436.0,7200.0,20.2
+1116,Lac-Blanc 3,NO,0.0,0.0,549.55
+1117,Lac-Lapeyrère,NO,0.0,0.0,376.66
+1118,Lac-Sergent,V,541.0,497.0,3.72
+1119,Linton,NO,10.0,0.0,429.62
+1120,Neuville,V,4475.0,4392.0,71.92
+1121,Pont-Rouge,V,10121.0,9240.0,121.12
+1122,Portneuf,V,3329.0,3187.0,109.1
+1123,Rivière-à-Pierre,MÉ,625.0,584.0,515.62
+1124,Saint-Alban,MÉ,1196.0,1198.0,148.47
+1125,Saint-Basile 5,V,2709.0,2621.0,98.84
+1126,Saint-Casimir,MÉ,1449.0,1430.0,66.5
+1127,Saint-Gilbert,PE,283.0,296.0,37.44
+1128,Saint-Léonard-de-Portneuf 3,MÉ,1140.0,1113.0,141.8
+1129,Saint-Marc-des-Carrières,V,2901.0,2911.0,17.29
+1130,Saint-Raymond 3,V,11108.0,10358.0,666.2
+1131,Saint-Thuribe,PE,298.0,286.0,51.0
+1132,Saint-Ubalde,MÉ,1456.0,1412.0,140.72
+1133,Sainte-Christine-d'Auvergne 3,MÉ,617.0,551.0,143.6
+1134,L'Ancienne-Lorette,V,16970.0,16543.0,7.72
+1135,Notre-Dame-des-Anges,PE,241.0,318.0,0.04
+1136,Québec,V,549459.0,531902.0,452.3
+1137,Saint-Augustin-de-Desmaures,V,19907.0,18820.0,85.8
+1138,Wendake,IRI,2200.0,2134.0,1.74
+1139,Esprit-Saint,MÉ,340.0,341.0,168.96
+1140,La Trinité-des-Monts,PE,233.0,223.0,233.07
+1141,Lac-Huron 3,NO,30.0,10.0,960.57
+1142,Rimouski 4,V,48935.0,48664.0,339.13
+1143,Saint-Anaclet-de-Lessard,PE,3019.0,3071.0,126.37
+1144,Saint-Eugène-de-Ladrière 3,PE,413.0,378.0,331.36
+1145,Saint-Fabien,PE,1834.0,1837.0,119.92
+1146,Saint-Marcellin,PE,397.0,353.0,117.19
+1147,Saint-Narcisse-de-Rimouski,PE,1084.0,961.0,162.4
+1148,Saint-Valérien 7,PE,906.0,835.0,145.02
+1149,Cacouna,MÉ,1848.0,1803.0,62.75
+1150,L'Isle-Verte,MÉ,1356.0,1294.0,119.15
+1151,Notre-Dame-des-Sept-Douleurs,PE,71.0,36.0,11.53
+1152,Notre-Dame-du-Portage,MÉ,1296.0,1151.0,40.06
+1153,Rivière-du-Loup,V,20118.0,19507.0,83.74
+1154,Saint-Antonin,MÉ,4338.0,4049.0,175.93
+1155,Saint-Arsène,PE,1245.0,1230.0,70.81
+1156,Saint-Cyprien,MÉ,1078.0,1066.0,138.43
+1157,Saint-François-Xavier-de-Viger,MÉ,247.0,245.0,111.27
+1158,Saint-Hubert-de-Rivière-du-Loup,MÉ,1412.0,1279.0,192.2
+1159,Saint-Modeste,MÉ,1180.0,1162.0,109.72
+1160,Saint-Paul-de-la-Croix,PE,313.0,309.0,78.42
+1161,Saint-Épiphane,MÉ,836.0,827.0,82.85
+1162,Beauceville 5,V,6185.0,6291.0,164.59
+1163,Saint-Alfred 5,MÉ,519.0,482.0,43.49
+1164,Saint-Frédéric 5,PE,1065.0,997.0,72.35
+1165,Saint-Joseph-de-Beauce 5,V,5014.0,4858.0,114.7
+1166,Saint-Joseph-des-Érables,MÉ,377.0,410.0,51.43
+1167,Saint-Jules,PE,547.0,539.0,55.73
+1168,Saint-Odilon-de-Cranbourne,PE,1407.0,1374.0,130.61
+1169,Saint-Séverin,PE,300.0,278.0,58.92
+1170,Saint-Victor,MÉ,2313.0,2448.0,120.45
+1171,Tring-Jonction 5,VL,1526.0,1448.0,27.32
+1172,Candiac,V,22997.0,21047.0,17.27
+1173,Châteauguay,V,50815.0,47906.0,34.31
+1174,Delson,V,8328.0,7457.0,7.64
+1175,Kahnawake 6,IRI,,,49.34
+1176,La Prairie,V,26406.0,24110.0,43.47
+1177,Léry,V,2390.0,2318.0,10.36
+1178,Mercier,V,14626.0,13115.0,45.96
+1179,Saint-Constant,V,29954.0,27359.0,57.06
+1180,Saint-Isidore,PE,2769.0,2608.0,52.29
+1181,Saint-Mathieu,MÉ,2339.0,2156.0,31.41
+1182,Saint-Philippe,V,7597.0,6320.0,61.96
+1183,Sainte-Catherine,V,17347.0,17047.0,9.37
+1184,Ange-Gardien,MÉ,2889.0,2699.0,90.21
+1185,Marieville,V,11332.0,10725.0,63.23
+1186,Richelieu,V,5742.0,5236.0,30.96
+1187,Rougemont,MÉ,2696.0,2755.0,43.91
+1188,Saint-Césaire,V,5972.0,5877.0,83.06
+1189,Saint-Mathias-sur-Richelieu,MÉ,4544.0,4531.0,47.02
+1190,Saint-Paul-d'Abbotsford,MÉ,2886.0,2890.0,79.6
+1191,Sainte-Angèle-de-Monnoir,MÉ,1828.0,1823.0,44.8
+1192,Rouyn-Noranda,V,42313.0,42334.0,5963.57
+1193,Caniapiscau,NO,0.0,0.0,30108.23
+1194,Fermont,V,2256.0,2474.0,451.12
+1195,Kawawachikamach,TK,641.0,601.0,32.51
+1196,Lac-John,IRI,21.0,33.0,0.5
+1197,Lac-Juillet,NO,0.0,0.0,2865.5
+1198,Lac-Vacher,NO,44.0,0.0,454.03
+1199,Lac-Walker,NO,113.0,108.0,17162.43
+1200,Maliotenam,IRI,1610.0,1542.0,5.2
+1201,Matimekosh 5,IRI,661.0,638.0,0.69
+1202,Port-Cartier,V,6516.0,6799.0,1092.75
+1203,Rivière-Mouchalagane,NO,15.0,5.0,30999.1
+1204,Rivière-Nipissis,NO,0.0,0.0,9522.28
+1205,Schefferville 5,V,244.0,130.0,24.76
+1206,Sept-Îles,V,24569.0,25400.0,1742.88
+1207,Uashat 27,IRI,1550.0,1592.0,2.36
+1208,Shawinigan,V,49620.0,49349.0,729.98
+1209,Sherbrooke,V,172950.0,161323.0,353.4
+1210,Blainville,V,59819.0,56863.0,54.97
+1211,Bois-des-Filion,V,10159.0,9636.0,4.36
+1212,Boisbriand,V,28308.0,26884.0,27.67
+1213,Lorraine,V,9502.0,9352.0,5.9
+1214,Rosemère,V,14090.0,13958.0,10.68
+1215,Sainte-Anne-des-Plaines,V,15221.0,14421.0,93.44
+1216,Sainte-Thérèse,V,26533.0,25989.0,9.48
+1217,Belleterre,V,285.0,313.0,544.49
+1218,Béarn 3,MÉ,708.0,720.0,496.28
+1219,Duhamel-Ouest,MÉ,945.0,878.0,91.49
+1220,Fugèreville,MÉ,326.0,326.0,157.12
+1221,Guérin,CT,333.0,320.0,188.52
+1222,Hunter's Point,S-É,5.0,10.0,1.3
+1223,Kebaowek 5,IRI,326.0,291.0,0.57
+1224,Kipawa 5,MÉ,446.0,499.0,35.58
+1225,Laforce,MÉ,320.0,231.0,436.78
+1226,Laniel,NO,89.0,82.0,408.2
+1227,Latulipe-et-Gaboury,CU,320.0,295.0,270.11
+1228,Laverlochère-Angliers 5,MÉ,947.0,978.0,400.83
+1229,Les Lacs-du-Témiscamingue,NO,10.0,15.0,10366.89
+1230,Lorrainville,MÉ,1286.0,1272.0,87.91
+1231,Moffet,MÉ,206.0,187.0,340.31
+1232,Notre-Dame-du-Nord,MÉ,1090.0,1052.0,74.34
+1233,Nédélec,CT,340.0,356.0,371.49
+1234,Rémigny,MÉ,287.0,280.0,894.05
+1235,Saint-Bruno-de-Guigues,MÉ,1185.0,1154.0,125.77
+1236,Saint-Eugène-de-Guigues,MÉ,458.0,465.0,109.52
+1237,Saint-Édouard-de-Fabre,PE,671.0,628.0,190.29
+1238,Timiskaming,IRI,541.0,539.0,18.39
+1239,Témiscaming,V,2368.0,2431.0,710.84
+1240,Ville-Marie,V,2464.0,2584.0,5.83
+1241,Winneway,S-É,176.0,104.0,0.33
+1242,Auclair,MÉ,447.0,448.0,105.78
+1243,Biencourt,MÉ,433.0,464.0,187.12
+1244,Dégelis,V,2884.0,2863.0,556.78
+1245,Lac-des-Aigles,MÉ,495.0,512.0,86.63
+1246,Lejeune,MÉ,246.0,262.0,270.13
+1247,Packington,PE,578.0,603.0,118.75
+1248,Pohénégamook,V,2481.0,2582.0,339.99
+1249,Rivière-Bleue,MÉ,1261.0,1230.0,173.42
+1250,Saint-Athanase,MÉ,303.0,317.0,292.63
+1251,Saint-Elzéar-de-Témiscouata,MÉ,311.0,321.0,151.14
+1252,Saint-Eusèbe,PE,587.0,593.0,129.56
+1253,Saint-Honoré-de-Témiscouata,MÉ,763.0,741.0,262.97
+1254,Saint-Jean-de-la-Lande 3,MÉ,232.0,248.0,107.03
+1255,Saint-Juste-du-Lac,MÉ,543.0,561.0,166.94
+1256,Saint-Louis-du-Ha! Ha!,PE,1311.0,1292.0,112.23
+1257,Saint-Marc-du-Lac-Long,PE,365.0,397.0,148.64
+1258,Saint-Michel-du-Squatec,MÉ,1076.0,1113.0,361.23
+1259,Saint-Pierre-de-Lamy,MÉ,122.0,117.0,110.63
+1260,Témiscouata-sur-le-Lac,V,5054.0,4910.0,218.81
+1261,Coteau-du-Lac,V,7473.0,7044.0,46.87
+1262,Hudson 4,V,5411.0,5157.0,21.79
+1263,L'Île-Cadieux,V,120.0,126.0,0.59
+1264,L'Île-Perrot,V,11638.0,10756.0,5.46
+1265,Les Coteaux,MÉ,5643.0,5368.0,11.64
+1266,Les Cèdres,MÉ,7184.0,6777.0,77.63
+1267,Notre-Dame-de-l'Île-Perrot,V,11427.0,10654.0,28.06
+1268,Pincourt,V,14751.0,14558.0,7.1
+1269,Pointe-Fortune,VL,582.0,580.0,8.09
+1270,Pointe-des-Cascades,VL,1775.0,1481.0,2.74
+1271,Rigaud,V,7854.0,7777.0,99.2
+1272,Rivière-Beaudette,MÉ,2489.0,2097.0,18.48
+1273,Saint-Clet,MÉ,1700.0,1779.0,39.32
+1274,Saint-Lazare 4,V,22354.0,19917.0,66.86
+1275,Saint-Polycarpe,MÉ,2372.0,2224.0,69.88
+1276,Saint-Télesphore,MÉ,754.0,759.0,60.1
+1277,Saint-Zotique,MÉ,9618.0,7934.0,25.04
+1278,Sainte-Justine-de-Newton,MÉ,947.0,922.0,84.59
+1279,Sainte-Marthe,MÉ,1014.0,1097.0,79.6
+1280,Terrasse-Vaudreuil,MÉ,1887.0,1986.0,1.06
+1281,Très-Saint-Rédempteur,MÉ,978.0,898.0,26.06
+1282,Vaudreuil-Dorion,V,43268.0,38117.0,72.65
+1283,Vaudreuil-sur-le-Lac,VL,1361.0,1341.0,1.38
